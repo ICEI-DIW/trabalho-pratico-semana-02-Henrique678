@@ -1,0 +1,19 @@
+.cabecalho{
+    background-color: lightblue;
+}
+
+.nome{
+    font-size: 50px;
+    font-style: strong;
+}
+
+.left{
+    background-color: lightblue;
+    float: left;
+    width: 30%;
+}
+
+.right{
+    float: right;
+    width: 70%;
+}

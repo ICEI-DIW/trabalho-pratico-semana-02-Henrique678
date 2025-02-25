@@ -3,7 +3,7 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Henrique Silveira Luz Rocha
+- Matricula: 890596
 
-## Print da tela da página criad
+## Print da tela da página criada
